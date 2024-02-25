@@ -1,5 +1,5 @@
 {
-  "name": "mieo",
+  "name": "revomaster",
   "version": "0.0.5",
   "description": "A simple, fast, and universality command line tools.",
   "main": "index.js",
@@ -11,18 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seymoe/mieo.git"
+    "url": "git+https://github.com/izzyz27/revomaster.git"
   },
   "keywords": [
-    "mieo",
+    "revomaster",
     "cli"
   ],
-  "author": "seymoe",
+  "author": "izzyz27",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/seymoe/mieo/issues"
+    "url": "https://github.com/izzyz27/revomaster/issues"
   },
-  "homepage": "https://github.com/seymoe/mieo#readme",
+  "homepage": "https://github.com/izzyz27/revomaster#readme",
   "dependencies": {
     "chalk": "^2.4.2",
     "commander": "^3.0.1",
